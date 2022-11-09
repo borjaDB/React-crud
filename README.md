@@ -6,6 +6,7 @@ This is the frontend part of react-crud. Next I am adding the steps to create th
  - apt install git
  - apt install npm (this installation also download npx)
  - npx create-react-app react-crud
+ - npm i bootstrap reactstrap
 
 2. Init:
  - cd react-crud
