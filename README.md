@@ -1,5 +1,5 @@
 # Crud React
-This is the frontend part of react-crud. Next I am adding the steps to create the app in ubuntu env.
+This is the first part of react-crud. Next I am adding the steps to create the app in ubuntu env.
 
 1. Installation:
  - apt install node
