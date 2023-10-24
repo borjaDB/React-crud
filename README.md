@@ -1,5 +1,5 @@
 # Crud React
-This is the first part of react-crud. Next I am adding the steps to create the app in ubuntu env.
+You can follow the next steps to install and run a CRUD application
 
 1. Installation:
  - apt install node
